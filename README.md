@@ -21,7 +21,7 @@
 
 | Recurso | Enlace |
 |---|---|
-| 📊 **Reporte interactivo** | [Ver reporte en Power BI Service](https://app.powerbi.com/view?r=TU_LINK) |
+| 📊 **Reporte interactivo** | [Ver reporte en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYWRkZDZmNWQtZmM1Ni00OTlhLTllMmMtMzMwMjBlYjRkMTg2IiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9) |
 | 📦 **Dataset original** | [Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 
 ---
@@ -80,7 +80,7 @@ Este proyecto nace a partir de un trabajo previo realizado en **SQL Server**, do
 Ahora el proyecto evoluciona hacia **Power BI**, aprovechando el modelo de datos ya diseñado y las consultas previamente resueltas en SQL. La intención no es repetir el trabajo, sino **potenciarlo con visualizaciones interactivas y dashboards dinámicos** que hacen más accesible la información para usuarios de negocio.
 
 > 📁 El análisis técnico en SQL Server está documentado en el repositorio complementario:  
-> **[Brz Ecommerce — SQL Server Analysis](../README_SQL.md)**
+> **[Brz Ecommerce — SQL Server Analysis](./README_SQL.md)**
 
 ### ¿Qué hace especial a este proyecto?
 
