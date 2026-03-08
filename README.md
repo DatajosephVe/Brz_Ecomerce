@@ -594,6 +594,6 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 
 - 🔗 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
 - 💼 **Portfolio:** [Tu enlace aquí]
-- 🐙 **GitHub:** [github.com/joseph-velasco](https://github.com/joseph-velasco)
+- 🐙 **GitHub:** [github.com/joseph-velasco](https://github.com/DatajosephVe)
 
 ---
