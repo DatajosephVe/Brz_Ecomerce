@@ -592,8 +592,8 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 
 **Joseph Velasco** — *Data Analyst | SQL Server · Power BI · Business Intelligence*
 
-- 🔗 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
+- 🔗 **LinkedIn:** [linkedin.com/in/Joseph_Velasco](https://linkedin.com/in/joseph-velasco)
 - 💼 **Portfolio:** [Tu enlace aquí]
-- 🐙 **GitHub:** [github.com/joseph-velasco](https://github.com/DatajosephVe)
+- 🐙 **GitHub:** [github.com/Joseph_Velasco](https://github.com/DatajosephVe)
 
 ---
