@@ -1227,7 +1227,7 @@ ORDER BY rango_tiempo_entrega;
 │
 ├── 📝 README_SQL.md                      ← Este archivo (SQL Server)
 ├── 📝 README_BRZ_PowerBI.md              ← Documentación Power BI
-├── 📋 BRZ_Ecommerce_Documentacion        ← Documentación ejecutiva completa
+├── 📋 BRZ_Ecommerce_Documentacion.pdf        ← Documentación ejecutiva completa
 │
 ├── 🗄️ 01_Brz_Ecommerce_Database_Setup.sql
 ├── 🗄️ 02_Brz_Ecommerce_Data_Model_Views.sql
