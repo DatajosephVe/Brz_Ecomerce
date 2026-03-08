@@ -80,7 +80,7 @@ Este proyecto nace a partir de un trabajo previo realizado en **SQL Server**, do
 Ahora el proyecto evoluciona hacia **Power BI**, aprovechando el modelo de datos ya diseñado y las consultas previamente resueltas en SQL. La intención no es repetir el trabajo, sino **potenciarlo con visualizaciones interactivas y dashboards dinámicos** que hacen más accesible la información para usuarios de negocio.
 
 > 📁 El análisis técnico en SQL Server está documentado en el repositorio complementario:  
-> **[Brz Ecommerce — SQL Server Analysis](../README_SQL.md)**
+> **[Brz Ecommerce — SQL Server Analysis](./README_SQL.md)**
 
 ### ¿Qué hace especial a este proyecto?
 
