@@ -23,7 +23,7 @@ Este proyecto aplica un flujo completo de ingeniería y análisis de datos sobre
 El proyecto demuestra la capacidad de diseñar una base de datos relacional desde cero, construir una capa analítica de vistas optimizadas y responder preguntas de negocio concretas con T-SQL — todo siguiendo buenas prácticas de modelado, integridad referencial y rendimiento de consultas.
 
 > 📊 Este proyecto es la base técnica del análisis visual en Power BI, disponible en:  
-> **[Brz Ecommerce — Power BI Analytics](./README_BRZ_PowerBI.md)**
+> **[Brz Ecommerce — Power BI Analytics](./README.md)**
 
 ### ¿Qué hace especial a este proyecto?
 
