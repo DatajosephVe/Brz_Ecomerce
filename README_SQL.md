@@ -1227,8 +1227,7 @@ ORDER BY rango_tiempo_entrega;
 │
 ├── 📝 README_SQL.md                      ← Este archivo (SQL Server)
 ├── 📝 README_BRZ_PowerBI.md              ← Documentación Power BI
-├── 📋 BRZ_Ecommerce_Documentacion.docx   ← Documentación ejecutiva completa
-├── 📊 Brz_Ecommerce.pbix                 ← Archivo Power BI (25.3 MB)
+├── 📋 BRZ_Ecommerce_Documentacion.pdf        ← Documentación ejecutiva completa
 │
 ├── 🗄️ 01_Brz_Ecommerce_Database_Setup.sql
 ├── 🗄️ 02_Brz_Ecommerce_Data_Model_Views.sql
@@ -1277,8 +1276,9 @@ ORDER BY rango_tiempo_entrega;
 
 **Joseph Velasco** — *Data Analyst | SQL Server · Power BI · Business Intelligence*
 
-- 🔗 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
+- 🔗 **LinkedIn:** [linkedin.com/in/Joseph_Velasco](https://linkedin.com/in/joseph-velasco)
 - 💼 **Portfolio:** [Tu enlace aquí]
-- 🐙 **GitHub:** [github.com/joseph-velasco](https://github.com/joseph-velasco)
+- 🐙 **GitHub:** [github.com/Joseph_Velasco](https://github.com/DatajosephVe)
 
 ---
+

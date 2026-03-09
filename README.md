@@ -29,10 +29,10 @@
 ## 📊 Vista del Dashboard
 
 ### 💰 Vista General de Ventas — Ingresos, Ticket Promedio y KPIs Clave
-![Dashboard Ventas](screenshots/Ventas.png)
+![Dashboard Ventas](screenshots/Ventas_2.png)
 
 ### 🗺️ Distribución Geográfica y Segmentación de Ventas por Región
-![Dashboard Ventas 2](screenshots/Ventas_2.png)
+![Dashboard Ventas 2](screenshots/Ventas.png)
 
 ### 📊 Rendimiento Operativo — Satisfacción, Logística y Eficiencia de Vendedores
 ![Dashboard Desempeño](screenshots/Desempeno.png)
@@ -553,8 +553,7 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 │
 ├── 📝 README_SQL.md                      ← Este archivo (SQL Server)
 ├── 📝 README_BRZ_PowerBI.md              ← Documentación Power BI
-├── 📋 BRZ_Ecommerce_Documentacion.docx   ← Documentación ejecutiva completa
-├── 📊 Brz_Ecommerce.pbix                 ← Archivo Power BI (25.3 MB)
+├── 📋 BRZ_Ecommerce_Documentacion.pdf        ← Documentación ejecutiva completa
 │
 ├── 🗄️ 01_Brz_Ecommerce_Database_Setup.sql
 ├── 🗄️ 02_Brz_Ecommerce_Data_Model_Views.sql
@@ -592,8 +591,8 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 
 **Joseph Velasco** — *Data Analyst | SQL Server · Power BI · Business Intelligence*
 
-- 🔗 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
+- 🔗 **LinkedIn:** [linkedin.com/in/Joseph_Velasco](https://linkedin.com/in/joseph-velasco)
 - 💼 **Portfolio:** [Tu enlace aquí]
-- 🐙 **GitHub:** [github.com/joseph-velasco](https://github.com/joseph-velasco)
+- 🐙 **GitHub:** [github.com/Joseph_Velasco](https://github.com/DatajosephVe)
 
 ---
