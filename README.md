@@ -29,10 +29,10 @@
 ## 📊 Vista del Dashboard
 
 ### 💰 Vista General de Ventas — Ingresos, Ticket Promedio y KPIs Clave
-![Dashboard Ventas](screenshots/Ventas.png)
+![Dashboard Ventas](screenshots/Ventas_2.png)
 
 ### 🗺️ Distribución Geográfica y Segmentación de Ventas por Región
-![Dashboard Ventas 2](screenshots/Ventas_2.png)
+![Dashboard Ventas 2](screenshots/Ventas.png)
 
 ### 📊 Rendimiento Operativo — Satisfacción, Logística y Eficiencia de Vendedores
 ![Dashboard Desempeño](screenshots/Desempeno.png)
