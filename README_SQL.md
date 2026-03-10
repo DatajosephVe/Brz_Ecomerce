@@ -1277,7 +1277,7 @@ ORDER BY rango_tiempo_entrega;
 **Joseph Velasco** — *Data Analyst | SQL Server · Power BI · Business Intelligence*
 
 - 🔗 **LinkedIn:** [linkedin.com/in/Joseph_Velasco](https://linkedin.com/in/joseph-velasco)
-- 💼 **Portfolio:** [Tu enlace aquí]
+- 💼 **Portfolio:** [GoogleSites/JosephVelasco](https://sites.google.com/view/joseph-velasco-data-analyst/inicio?authuser=0)
 - 🐙 **GitHub:** [github.com/Joseph_Velasco](https://github.com/DatajosephVe)
 
 ---
