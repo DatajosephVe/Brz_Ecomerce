@@ -591,12 +591,17 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 
 Si buscas un analista enfocado en resolver problemas de negocio mediante datos limpios y visualizaciones estratégicas, ¡hablemos!
 
-- 💼 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
-- 🌐 **Portafolio:** [joseph-velasco-data-analyst](https://sites.google.com/view/joseph-velasco-data-analyst/inicio)
-- 🐙 **GitHub:** [github.com/DatajosephVe](https://github.com/DatajosephVe)
-- 📧 **Email:** [josephvelasco2223@gmail.com](mailto:josephvelasco2223@gmail.com)
-- 📄 **CV:** [Descargar CV](https://drive.google.com/file/d/12b6fu9ykucFDR12LD1fb1w6snUsg3mf5/view?usp=drive_link)
-- 📍 **Ubicación:** Venezuela 🇻🇪 · Disponible para trabajo remoto
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/joseph-velasco)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-0B2545?style=for-the-badge)](https://sites.google.com/view/joseph-velasco-data-analyst/inicio)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge)](https://github.com/DatajosephVe)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:josephvelasco2223@gmail.com)
+[![CV](https://img.shields.io/badge/📄_Descargar_CV-134074?style=for-the-badge)](https://drive.google.com/file/d/12b6fu9ykucFDR12LD1fb1w6snUsg3mf5/view?usp=drive_link)
+
+📍 Venezuela 🇻🇪 · Disponible para trabajo remoto
+
+</div>
 
 ---
 
