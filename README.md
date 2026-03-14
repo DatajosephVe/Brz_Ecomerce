@@ -589,10 +589,17 @@ El proyecto **Brz Ecommerce** demuestra una integración exitosa entre la ingeni
 
 ## 📬 Contacto
 
-**Joseph Velasco** — *Data Analyst | SQL Server · Power BI · Business Intelligence*
+Si buscas un analista enfocado en resolver problemas de negocio mediante datos limpios y visualizaciones estratégicas, ¡hablemos!
 
-- 🔗 **LinkedIn:** [linkedin.com/in/Joseph_Velasco](https://linkedin.com/in/joseph-velasco)
-- 💼 **Portfolio:** [GoogleSites/JosephVelasco](https://sites.google.com/view/joseph-velasco-data-analyst/inicio?authuser=0)
-- 🐙 **GitHub:** [github.com/Joseph_Velasco](https://github.com/DatajosephVe)
+- 💼 **LinkedIn:** [linkedin.com/in/joseph-velasco](https://linkedin.com/in/joseph-velasco)
+- 🌐 **Portafolio:** [joseph-velasco-data-analyst](https://sites.google.com/view/joseph-velasco-data-analyst/inicio)
+- 🐙 **GitHub:** [github.com/DatajosephVe](https://github.com/DatajosephVe)
+- 📧 **Email:** [josephvelasco2223@gmail.com](mailto:josephvelasco2223@gmail.com)
+- 📄 **CV:** [Descargar CV](https://drive.google.com/file/d/12b6fu9ykucFDR12LD1fb1w6snUsg3mf5/view?usp=drive_link)
+- 📍 **Ubicación:** Venezuela 🇻🇪 · Disponible para trabajo remoto
+
+---
+
+> **"Transformando datos complejos en claridad para el negocio."**
 
 ---
