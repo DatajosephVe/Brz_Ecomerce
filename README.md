@@ -21,7 +21,7 @@
 
 | Recurso | Enlace |
 |---|---|
-| 📊 **Reporte interactivo** | [Ver reporte en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYWRkZDZmNWQtZmM1Ni00OTlhLTllMmMtMzMwMjBlYjRkMTg2IiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9) |
+| 📊 **Reporte interactivo** | [Ver reporte en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYWRkZDZmNWQtZmM1Ni00OTlhLTllMmMtMzMwMjBlYjRkMTg2IiwidCI6IjE4YzQ0ODRlLWFmYjctNGFjYS04NDM1LWZmYzQwOGY0YjE3NiJ9&pageName=7a6c62f682e264b660a5) |
 | 📦 **Dataset original** | [Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 
 ---
@@ -29,10 +29,10 @@
 ## 📊 Vista del Dashboard
 
 ### 💰 Vista General de Ventas — Ingresos, Ticket Promedio y KPIs Clave
-![Dashboard Ventas](screenshots/Ventas_2.png)
+![Dashboard Ventas](screenshots/Ventas_2.jpg)
 
 ### 🗺️ Distribución Geográfica y Segmentación de Ventas por Región
-![Dashboard Ventas 2](screenshots/Ventas.png)
+![Dashboard Ventas 2](screenshots/Ventas.jpg)
 
 ### 📊 Rendimiento Operativo — Satisfacción, Logística y Eficiencia de Vendedores
 ![Dashboard Desempeño](screenshots/Desempeno.png)
@@ -52,7 +52,7 @@
 ---
 
 ### 💰 Vista General de Ventas — Dark Mode
-![Dashboard Ventas Dark Mode](screenshots/Ventas_Dark_mode.png)
+![Dashboard Ventas Dark Mode](screenshots/Ventas_Dark_mode.jpg)
 
 ### 🗺️ Distribución Geográfica y Segmentación de Ventas — Dark Mode
 ![Dashboard Ventas 2 Dark Mode](screenshots/Ventas2_DarkMode.jpg)
@@ -356,9 +356,12 @@ Durante el modelado se realizaron cambios importantes para simplificar el modelo
 |---|---|
 | SP | 40,300 |
 | RJ | 12,380 |
-| RS | 5,280 |
+| MG | 11,259 |
 
-> **Insight:** El mercado está fuertemente liderado por la región sureste de Brasil. SP concentra el ~41% del total de clientes. Oportunidad de expansión en el norte y noreste, regiones con baja penetración y alta población potencial.
+> **Insight:** El mercado está fuertemente liderado por la región sureste 
+> de Brasil. SP concentra el ~42% del total de clientes únicos, seguido 
+> por RJ y MG. Oportunidad de expansión en el norte y noreste, regiones 
+> con baja penetración y alta población potencial.
 
 **3.1.2 — Crecimiento de nuevos clientes:**
 
